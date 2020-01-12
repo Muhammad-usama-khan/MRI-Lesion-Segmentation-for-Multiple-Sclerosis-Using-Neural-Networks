@@ -1,3 +1,3 @@
-Project Completed: April 2019
+# MRI Lesion Segmentation
 
-THIS REPOSITORY IS STILL BEING COMPLETED
+In Progress
